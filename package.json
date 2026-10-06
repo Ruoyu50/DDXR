@@ -13,7 +13,7 @@
     "@react-three/fiber": "^9.3.0",
     "@react-three/gltfjsx": "^4.3.4",
     "@react-three/xr": "^6.6.26",
-    "next": "15.5.3",
+    "next": "15.5.27",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "three": "^0.180.0"
@@ -26,7 +26,7 @@
     "@types/react-dom": "^19",
     "@types/three": "^0.180.0",
     "eslint": "^9",
-    "eslint-config-next": "15.5.3",
+    "eslint-config-next": "15.5.27",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
